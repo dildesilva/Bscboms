@@ -182,10 +182,7 @@ Certainly! Here's a shortened step-by-step guide to create a simple form in Lara
     Access the form in your web browser (e.g., `http://localhost:8000/form`), submit data, and verify that it's saved correctly.
 
 This simplified guide covers the essential steps to create a basic form in Laravel. Customize and expand upon these steps based on your project requirements and learning goals. If you have specific questions or need further clarification on any step, feel free to ask! -->
-
-
-
-
+https://github.com/dildesilva/Bscboms.git
 
 git init
 git add .
