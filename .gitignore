@@ -23,9 +23,6 @@ yarn-error.log
 /.zed
 
 # Python
+python-model/.venv/
 .venv/
 venv/
-python-model/.venv/
-__pycache__/
-*.pyc
-*.pyo
